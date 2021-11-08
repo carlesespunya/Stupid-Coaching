@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+.mb-2 {
+  margin-left: 300px !important;
+  margin-right: 300px !important;
+   border-left: 2px solid #000 !important;
+}
+
+#question {
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+
+h1 {
+  margin-top: 40px !important;
+}
+
+.text-center {
+  margin-top: 30px !important;
+}
